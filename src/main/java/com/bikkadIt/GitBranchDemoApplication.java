@@ -8,6 +8,8 @@ public class GitBranchDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitBranchDemoApplication.class, args);
+		
+		System.out.println("Welcome to bikkad IT");
 	}
 
 }
